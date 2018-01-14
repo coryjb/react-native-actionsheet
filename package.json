@@ -33,7 +33,7 @@
   "homepage": "https://github.com/beefe/react-native-actionsheet#readme",
   "peerDependencies": {
     "prop-types": ">=15.4.0",
-    "react": ">=15.4.0"
+    "react": "^15.4.0"
   },
   "devDependencies": {
     "babel-jest": "^21.2.0",
@@ -47,8 +47,8 @@
     "eslint-plugin-standard": "^3.0.1",
     "jest": "^21.2.1",
     "prop-types": "^15.5.0",
-    "react": "15.4.0",
-    "react-native": "0.39.0",
+    "react": "^15.4.0",
+    "react-native": "^0.39.0",
     "react-test-renderer": "15.4.0"
   }
 }
